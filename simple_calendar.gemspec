@@ -3,7 +3,7 @@ $:.push File.expand_path("../lib", __FILE__)
 require "simple_calendar/version"
 
 Gem::Specification.new do |s|
-  s.name        = "simple_calendar"
+  s.name        = "simple_calendar_uyp"
   s.version     = SimpleCalendar::VERSION
   s.authors     = ["Chris Oliver"]
   s.email       = ["excid3@gmail.com"]
